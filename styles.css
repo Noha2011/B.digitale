@@ -45,3 +45,7 @@ img  {
 a {
     cursor: pointer;
 }
+
+p#lavoro {
+    cursor: pointer;
+}
